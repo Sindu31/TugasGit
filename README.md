@@ -5,3 +5,4 @@
 3. revert ini
 4. setelah revert
 5. index hilang
+6. merge again
