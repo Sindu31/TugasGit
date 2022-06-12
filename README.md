@@ -2,4 +2,4 @@
 
 1. readme
 2. reset
-3. revert
+3. revert ini
